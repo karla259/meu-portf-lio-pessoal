@@ -2,6 +2,10 @@
 
 Portfólio acadêmico desenvolvido para apresentar meus projetos, conhecimentos e evolução durante o curso de Engenharia de Software.
 
+### 🌐 Meu Portfólio Online
+
+[👉 Acessar meu Portfólio](https://karla259.github.io/portfolio-karla/)
+
 ## 🎯 Objetivo
 
 Criar um espaço profissional para reunir meus principais projetos de programação e demonstrar minhas habilidades em desenvolvimento de software.
